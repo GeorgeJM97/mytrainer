@@ -1,7 +1,7 @@
 {
   "name": "mytrainer",
   "version": "0.1.0",
-  "homepage": "/mytrainer",
+  "homepage": "https://georgejm97.github.io/mytrainer",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
