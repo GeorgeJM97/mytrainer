@@ -1,6 +1,6 @@
 # MyTrainer - Fitness Marketplace App
 
-MyTrainer is a modern web application that connects fitness enthusiasts with professional trainers and organized fitness classes in their area. The platform features a beautiful UI, Google Maps integration, and a seamless booking experience.
+MyTrainer is a shiteeeee modern web application that connects fitness enthusiasts with professional trainers and organized fitness classes in their area. The platform features a beautiful UI, Google Maps integration, and a seamless booking experience.
 
 ## Features
 
